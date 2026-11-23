@@ -1,0 +1,130 @@
+{
+  "app": {
+    "title": "IT Support",
+    "subtitle": "Report any technical problem and follow it up"
+  },
+  "nav": {
+    "home": "Home",
+    "newTicket": "New",
+    "myTickets": "My requests",
+    "profile": "Account"
+  },
+  "common": {
+    "loading": "Loading…",
+    "retry": "Retry",
+    "back": "Back",
+    "cancel": "Cancel",
+    "close": "Close",
+    "change": "Change",
+    "choose": "Choose…",
+    "optional": "optional",
+    "loadFailed": "Could not load.",
+    "networkError": "Could not reach the server. Check your connection and try again.",
+    "offline": "You are offline right now."
+  },
+  "login": {
+    "subtitle": "Sign in with your university account",
+    "email": "Email",
+    "password": "Password",
+    "remember": "Remember me on this device",
+    "submit": "Sign in",
+    "failed": "Wrong email or password.",
+    "throttled": "Too many attempts. Wait a minute and try again.",
+    "afterQr": "After signing in, the report form for the room you scanned will open."
+  },
+  "home": {
+    "greeting": "Hello {name}",
+    "newTicket": "Report a problem",
+    "newTicketHint": "Pick the place and the problem; the IT team will follow up.",
+    "newTicketHintFixed": "Your office and devices are on file — just pick the problem.",
+    "openTickets": "My open requests",
+    "viewAll": "View all",
+    "noOpen": "No open requests"
+  },
+  "new": {
+    "title": "New request",
+    "progress": "Request steps",
+    "whereTitle": "Where is the problem?",
+    "myDevice": "My device / office",
+    "otherPlace": "Somewhere else",
+    "otherPlaceHint": "A hall, lab or another office",
+    "recentPlaces": "Places you reported from recently",
+    "building": "Building",
+    "floor": "Floor",
+    "room": "Room / office",
+    "qrTip": "Halls have a QR sticker on the door — scan it with your phone camera to skip this step.",
+    "qrYouAreIn": "You are in:",
+    "qrInvalid": "This code is not valid or the place is no longer active.",
+    "chooseManually": "Choose the place manually",
+    "deviceTitle": "Which device?",
+    "mine": "mine",
+    "generalProblem": "General problem in the place (no specific device)",
+    "problemTitle": "What is the problem?",
+    "otherProblemType": "Another type",
+    "classNow": "A class is going on now",
+    "classNowHint": "The request will be treated as urgent.",
+    "priority": "How urgent?",
+    "priorities": {
+      "auto": "Default",
+      "low": "Not urgent",
+      "normal": "Medium",
+      "high": "Urgent"
+    },
+    "description": "Describe the problem",
+    "descriptionPlaceholder": "e.g. The PC does not turn on since this morning, orange light on",
+    "send": "Send request",
+    "sending": "Sending…"
+  },
+  "photos": {
+    "title": "Photos",
+    "add": "Add",
+    "remove": "Remove photo",
+    "tooBig": "Photo is larger than {mb} MB.",
+    "tooMany": "At most {max} photos."
+  },
+  "tickets": {
+    "title": "My requests",
+    "open": "Open",
+    "closed": "Finished",
+    "emptyOpen": "No open requests.",
+    "emptyClosed": "No finished requests yet.",
+    "loadMore": "Load more"
+  },
+  "ticket": {
+    "notFound": "This request does not exist or is not yours.",
+    "createdTitle": "Your request was sent",
+    "createdBody": "You will be notified when someone from IT picks it up.",
+    "reported": "Reported",
+    "handledBy": "Handled by {name}",
+    "waitingForTechnician": "Waiting for a technician",
+    "urgentClass": "Class in progress",
+    "wasItFixed": "Was the problem fixed?",
+    "yesFixed": "Yes, fixed",
+    "notFixed": "No, still there",
+    "reopenReason": "What is still not working?",
+    "reopen": "Reopen request",
+    "rateTitle": "How was the service?",
+    "rateComment": "Comment (optional)",
+    "sendRating": "Send rating",
+    "thanksForRating": "Thanks for your rating",
+    "history": "Follow-up",
+    "replyPlaceholder": "Write a reply or extra details for IT…",
+    "sendReply": "Send",
+    "cancel": "Cancel request",
+    "cancelConfirm": "Cancel this request?"
+  },
+  "profile": {
+    "fixedLocation": "My fixed location",
+    "noFixedLocation": "No fixed location on file; you will pick the place with each request.",
+    "locationManagedByIt": "Contact IT to change your location or devices.",
+    "myDevices": "My devices",
+    "noDevices": "No devices registered to you.",
+    "switchLanguage": "العربية",
+    "logout": "Sign out"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "markAllRead": "Mark all as read",
+    "empty": "No notifications yet"
+  }
+}

@@ -1,0 +1,16 @@
+# Each app has its own .gitignore (backend/, pwa/); these are repo-wide.
+
+# Local tool settings with machine-specific paths
+.claude/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Never commit real environment files
+.env
+.env.*
+!.env.example
